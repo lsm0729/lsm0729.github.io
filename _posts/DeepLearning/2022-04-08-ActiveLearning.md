@@ -15,6 +15,7 @@ last_modified_at: 2022-04-08
 ---
 
 Not All Labels Are Equal: Rationalizing The Labeling Costs for Training Object Detection 논문 기반 이해한 내용 및 실험 결과에 대한 고찰입니다.
+
 [논문 링크](https://arxiv.org/abs/2106.11921)
 {: .notice--warning}
 
