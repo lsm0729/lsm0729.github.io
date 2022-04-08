@@ -5,6 +5,23 @@
 <span class..> : 대카테고리 설정
   
 이후 각 for 문 마다 소카테고리 설정
+
+'''
+<span class="nav__sub-title">알고리즘</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "DeepLearning" %}
+                        <li><a href="/categories/DeepLearning" class="">DeepLearning ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+'''
+
+
+
+
+
+
   
   
 
