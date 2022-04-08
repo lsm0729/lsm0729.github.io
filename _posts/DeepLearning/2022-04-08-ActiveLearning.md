@@ -1,5 +1,5 @@
 ---
-title:  "[ActiveLearning] Test" 
+title:  "[ActiveLearning] Not All Labels Are Equal." 
 
 categories:
   - DeepLearning
@@ -13,10 +13,9 @@ toc_sticky: true
 date: 2022-04-08
 last_modified_at: 2022-04-08
 ---
-This Test
 
-인프런에 있는 홍정모 교수님의 **홍정모의 따라 하며 배우는 C++** 강의를 듣고 정리한 필기입니다. 😀    
-[🌜 [홍정모의 따라 하며 배우는 C++]강의 들으러 가기!](https://www.inflearn.com/course/following-c-plus)
+Not All Labels Are Equal: Rationalizing The Labeling Costs for Training Object Detection 논문 기반 이해한 내용 및 실험 결과에 대한 고찰입니다.
+[논문 링크](https://arxiv.org/abs/2106.11921)
 {: .notice--warning}
 
 > 원격으로 내 프로젝트와 코드들을 버전별로 백업할 수 있다.
