@@ -2,9 +2,9 @@
 title:  "[Git] .gitignore 파일 만들기" 
 
 categories:
-  - Git
+  - DeepLearning
 tags:
-  - [Git, Github]
+  - [ActiveLearning]
 
 toc: true
 toc_sticky: true

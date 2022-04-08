@@ -2,9 +2,10 @@
 title:  "[Git] Visual Studio에서 Github 사용 하기" 
 
 categories:
-  - Git
+  - DeepLearning
 tags:
-  - [Git, Github]
+  - [ActiveLearning]
+
 
 toc: true
 toc_sticky: true
